@@ -22,6 +22,6 @@
     "razorpay": "^2.9.6",
     "stripe": "^16.6.0",
     "validator": "^13.12.0",
-    "cloudinary": "^2.7.0",
+   "cloudinary": "^2.7.0",
   }
 }
